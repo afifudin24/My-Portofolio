@@ -1,0 +1,177 @@
+{
+    "main": {
+        "name" : "Afif Waliyudin",
+        "description": "I am a Fullstack Developer | IT Enthusiast | Software Engineer",
+        "image":"profilepic.jpeg",
+        "github":"https://github.com/afifudin24",
+        "project":"https://ngide.site",
+        "bio": "I am a dedicated Informatics student at Universitas Amikom Purwokerto with a strong focus on full-stack web development. Over the years, I have successfully delivered numerous web projects using technologies such as Laravel and React.js, showcasing my expertise in both front-end and back-end development. My journey as a developer is marked by a relentless pursuit of innovation and a commitment to leveraging the latest tools and frameworks to create seamless and efficient user experiences. Additionally, I have dabbled in Android application development using Java, further broadening my technical skill set. As I continue to advance in my studies and career, I am eager to contribute to exciting projects that push the boundaries of technology and make a meaningful impact.",
+        "contactmessage":"Contact Me",
+        "email": "afifrider507@gmail.com",
+        "phone": "+62 81-548-769-365",
+        "address":{
+            "street":"Jl Surusunda, Karangpucung",
+            "city":"Cilacap",
+            "state":"Center Java",
+            "zip": "53255"
+        },
+        "website": "https://ynzhiao.my.id",
+        "resumedownload":"https://drive.google.com/file/d/1zbgol5fjhcl-wZNBsPrqhjewsc9yYl7J/view?usp=sharing",
+        "social":[
+          {
+            "name": "facebook",
+            "url": "https://facebook.com/aw",
+            "className": "fa fa-facebook"
+          },
+        
+          {
+            "name":"linkedin",
+            "url":"https://www.linkedin.com/in/afif-waliyudin-aypeep/",
+            "className":"fa fa-linkedin"
+          },
+          {
+            "name":"instagram",
+            "url":"http://instagram.com/ngidecode",
+            "className":"fa fa-instagram"
+          },
+          {
+            "name":"github",
+            "url":"https://github.com/afifudin24",
+            "className":"fa fa-github"
+          }
+        ]
+    },
+    "resume" : {
+        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+        "education" : [
+            {
+                "school": "Amikom Purwokerto University",
+                "degree": "Bachelor degree of Computer Science",
+                "graduation_expected": "June 2025",
+                "description" : "I am actively working on multiple projects to enhance my skills and portfolio."
+            },
+            {
+                "school": "SMK Darussalam Karangpucung",
+                "degree": "Vocational High School Diploma",
+                "graduated": "May 2021",
+                "description": "I majored in Computer Engineering and Networks."
+            }
+        ],
+        "work": [
+            {
+              "company": "SMK Darussalam Karangpucung",
+              "title": "TKJ Instructor",
+              "years": "February 2022 - Present",
+              "description": "Teaching and maintaining network servers."
+
+            }, {
+                  "company": "NgideCode",
+              "title": "Freelance Web Developer",
+              "years": "2023 - Present",
+              "description": "Developing intermediate-level web projects on demand."
+            }
+        ],
+        "skills": [
+            {
+                "name" : "HTML",
+                "level": "90%"
+            },
+            {
+                "name": "CSS",
+                "level": "85%"
+            },
+            {
+                "name": "Javascript",
+                "level": "85%"
+            },
+            {
+                "name": "ReactJS",
+                "level": "80%"
+            },
+            {
+                "name": "PHP",
+                "level": "80%"
+            },
+            {
+                "name": "Laravel",
+                "level": "85%"
+            }
+        ]
+    },
+    "portfolio":{
+        "projects": [
+            {
+                "title": "Canadian Wanderlust",
+                "category": "My travel blog for my post-university",
+                "image": "01.jpg",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              },
+              {
+                "title":"Fury Fighting Gear",
+                "category":"(offline now) A fighting gear company I started",
+                "image":"01.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"02.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Original Thai Food",
+                "category":"Website I built for a restaurant I like in Thailand",
+                "image":"03.jpg",
+                "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+              },
+              {
+                "title":"Resume Website",
+                "category":"A React based resume website template",
+                "image":"04.jpg",
+                "url":"http://www.timbakerdev.com"
+              },
+              {
+                "title":"Smirkspace",
+                "category":"(MVP Only) A React and Meteor based chat University project.",
+                "image":"05.jpg",
+                "url":"http://www.smirkspace.com"
+              },
+              {
+                "title":"Canadian Wanderlust",
+                "category":"My Travel Blog for my post-university travels",
+                "image":"06.jpg",
+                "url":"https://www.canadianwanderlust.com"
+              }
+        ]
+    }
+}
